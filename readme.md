@@ -1,19 +1,7 @@
->>>>>>>  ![visitors](https://visitor-badge.glitch.me/badge?page_id=sindresorhus.awesome)      
->>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> =
->>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>>
->>>>>>> <img width="500" height="350" src="media/logo.svg" alt="Awesome">
->>>>>>> 
->>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> ===
->>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> 
->>>>>>> awesome
->>>>>>> =====
->>>>>>>  branch 'main' of https://github.com/sindresorhus/awesome.git
->>>>>>> >>>>>>> AWESOME
->>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> ========
 
 
 <div align="center">
-	<img width="500" height="350" src="media/log.svg" alt="Awesome">
+	<img width="500" height="350" src="media/log0.svg" alt="Awesome">
 	<br>
 	<br>
 	<hr>
@@ -97,6 +85,21 @@
 	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
 <br>
+
+
+
+>>>>>>>  ![visitors](https://visitor-badge.glitch.me/badge?page_id=sindresorhus.awesome)      
+>>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> =
+>>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>>
+>>>>>>> <img width="500" height="350" src="media/logo.svg" alt="Awesome">
+>>>>>>> 
+>>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> ===
+>>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> 
+>>>>>>> awesome
+>>>>>>> =====
+>>>>>>>  branch 'main' of https://github.com/sindresorhus/awesome.git
+>>>>>>> >>>>>>> AWESOME
+>>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> ========
 
 ## Contents
 
