@@ -6,13 +6,13 @@
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> 
 >>>>>>> awesome
 >>>>>>> =====
->>>>>>> branch 'main' of https://github.com/sindresorhus/awesome.git
+>>>>>>>  branch 'main' of https://github.com/sindresorhus/awesome.git
 >>>>>>> >>>>>>> AWESOME
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> ========
 
 
 <div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+	<img width="500" height="350" src="media/log.svg" alt="Awesome">
 	<br>
 	<br>
 	<hr>
